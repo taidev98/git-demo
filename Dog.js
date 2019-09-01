@@ -1,3 +1,3 @@
-function Dog(argument) {
-	// body...
+function Dog() {
+	this.name = name;
 }
