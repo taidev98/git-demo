@@ -1,0 +1,3 @@
+var cat = {
+	this.name
+}
