@@ -1,4 +1,5 @@
 var chalk = require('chalk');
+
 function Dog(name) {
 	this.name = name;
 }
